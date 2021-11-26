@@ -1,6 +1,12 @@
 ## Hello everyone 👋
 
-My name is Oscar and i'm data scientist in progress.
+My name is Oscar and i'm Data Scientist in progress.
+
+
+
+
+
+
 
 <!--
 **oscarteran/oscarteran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
