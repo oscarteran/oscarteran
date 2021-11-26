@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello everyone 👋
 
 My name is Oscar and i'm data scientist in progress.
 
