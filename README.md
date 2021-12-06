@@ -11,7 +11,7 @@ I have had approach in genetic algorithms written in FORTRAN.
 I am currently studying for my TOEFL certification and continue to do data science projects independently.
 
 ### Connect with me
-[<img align="left" alt="jvelezmagic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img align="left" alt="oscar.teheran | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 [<img align="left" alt="jvelezmagic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 
