@@ -3,6 +3,9 @@
 My name is Oscar and i'm Data Scientist in progress.
 
 
+I study geophysical engineering at the UNAM, in Mexico City.
+
+
 
 
 
