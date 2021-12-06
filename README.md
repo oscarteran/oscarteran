@@ -10,6 +10,11 @@ I have had approach in genetic algorithms written in FORTRAN.
 
 I am currently studying for my TOEFL certification and continue to do data science projects independently.
 
+### Connect with me
+
+
+### Languages and tools
+
 
 
 
