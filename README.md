@@ -1,14 +1,18 @@
 # Hello everyone 👋
 ### This is my official repository 
 
-My name is Oscar and i'm Data Scientist in progress.
+My name is Oscar and i'm Data Scientist and Machine Learning Engineer.
 
-I study Geophysical Engineering at the UNAM, in Mexico City.
-In this page you find some examples of the codes i have written throughout my years of study. 
-I have worked with Python, for files manipulation and creation of graphics, neural network design and general-purpose programs.
-I have had approach in genetic algorithms written in FORTRAN.
+I studied Geophysical Engineering at UNAM, Mexico City.
+I have two years of professional experience as a Data Scientist.
 
-I am currently studying for my TOEFL certification and continue to do data science projects independently.
+Throughout my career I have participated in ETL projects, development of predictive models, automation of clustering projects through cluster algorithms, as well as development of APIs and endpoints for web applications.
+
+I have experience as a Data Scientist, Backend Engineer and Database Administrator.
+
+I am fluent in English, written and oral.
+
+Translated with DeepL.com (free version)
 
 
 <!--
