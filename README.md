@@ -12,8 +12,6 @@ I have experience as a Data Scientist, Backend Engineer and Database Administrat
 
 I am fluent in English, written and oral.
 
-Translated with DeepL.com (free version)
-
 
 <!--
 ### Connect with me
